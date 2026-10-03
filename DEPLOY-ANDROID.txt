@@ -1,0 +1,10 @@
+اگر فقط با گوشی کار می‌کنی، ساده‌ترین روش این است که پروژه را در محیطی مثل Termux یا GitHub Codespaces باز کنی و این‌ها را اجرا کنی:
+
+1) npm install
+2) npx wrangler login
+3) npm run deploy
+
+برای Stream:
+4) npm run deploy:stream
+
+بعد /setup را باز کن.
